@@ -1,4 +1,5 @@
-<h1>The rational method: Estimation of Peak Discharge for the Pouri River with ArcGIS Pro</h1>
+<h1>The Rational Method : estimation du débit maximal de la rivière Pouri avec ArcGIS Pro
+  <br>The rational method: Estimation of Peak Discharge for the Pouri River with ArcGIS Pro</h1>
 
 
 
