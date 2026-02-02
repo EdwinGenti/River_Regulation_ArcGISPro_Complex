@@ -22,3 +22,6 @@ The study was made possible by Farisotou Evangelia, my university professor at t
 <h2>Made on 1/26/2026 by GENTI Edwin</h2>
 <h2>References</h2>
 - <b>Farisotou Evangelia</b>
+
+<br><br>
+- <b>Version française de ce projet : https://github.com/EdwinGenti/Rational_Methode_Etude_Hydrologique__Complexe</b>
